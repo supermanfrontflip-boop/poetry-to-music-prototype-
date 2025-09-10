@@ -1,0 +1,19 @@
+# go into your unzipped folder
+cd poetry_to_music_prototype_repo
+
+# initialize local repo
+git init
+
+# add remote GitHub repo (replace YOUR-USERNAME with your GitHub username)
+git remote add origin https://github.com/YOUR-USERNAME/poetry_to_music_prototype.git
+
+# add files & commit
+git add .
+git commit -m "Initial commit: Poetry→Music prototype"
+
+# push to GitHub
+git branch -M main
+git push -u origin main{
+  "image": "mcr.microsoft.com/devcontainers/universal:2",
+  "features": {}
+}
