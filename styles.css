@@ -1,0 +1,15 @@
+
+body {
+  font-family: sans-serif;
+  margin: 2em;
+  background: #fafafa;
+  color: #333;
+}
+h1 { color: #222; }
+a {
+  display: block;
+  margin: 0.5em 0;
+  text-decoration: none;
+  color: #0066cc;
+}
+a:hover { text-decoration: underline; }
