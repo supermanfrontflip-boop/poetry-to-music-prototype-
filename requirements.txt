@@ -6,3 +6,18 @@ aiofiles==23.1.0
 requests==2.31.0
 boto3==1.28.40
 python-dotenv==1.0.0
+
+# ML libs
+sentence-transformers==2.2.2
+transformers==4.40.1
+torch>=2.0.0
+torchvision
+Pillow==10.0.0
+ftfy==6.1.1
+regex==2024.4.4
+
+# music/midi/audio
+pretty_midi==0.2.10
+numpy==1.26.4
+pydub==0.26.0
+soundfile==0.12.1
